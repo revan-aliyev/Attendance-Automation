@@ -8,8 +8,10 @@ Bu lahiyə .env faylı daxilində verilmiş istifadəçi məlumatlarına görə 
    PASSWORD="Şifrə"
    ```
 Məsələn:
-NAME=Rəvan
-PASSWORD=rəvan25
+```bash
+   NAME=Rəvan
+   PASSWORD=rəvan25
+   ```
 
 ## Quraşdırma təlimatları
 1. **GitHub-dan layihəni klonlayın:**
