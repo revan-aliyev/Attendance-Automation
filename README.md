@@ -17,6 +17,7 @@ Məsələn:
 1. **GitHub-dan layihəni klonlayın:**
    ```bash
    git clone https://github.com/revan-aliyev/Attendance-Automation.git
+   cd Attendance-Automation
    ```
 
 2. **Virtual mühitin yaradılması:**
